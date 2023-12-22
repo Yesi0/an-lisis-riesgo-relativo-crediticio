@@ -41,5 +41,8 @@ Estos insights están ayudando a "Super Caja" a mejorar sus estrategias de conce
 
 <img width="256" alt="image" src="https://github.com/Yesi0/an-lisis-riesgo-relativo-crediticio/assets/125078076/7ff1fca3-b2fb-4b0b-b1a4-d5eb96bcc6e2">
 
+## Reporte informe y visualización de datos
+[Link Aquí](https://lookerstudio.google.com/s/uuZkpFajCAs)
+
 ## Matriz de confusión y Regresión Logística
 [Link aqui](https://colab.research.google.com/drive/1o4LRiQBxte7LHp_mUgafNl-JLKR9Z9ZS?usp=sharing)
